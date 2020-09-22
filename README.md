@@ -7,3 +7,7 @@ Initially, the model was overfitting and the test accuracy was very low, but by 
 I was able to achieve an accuracy over 90%. The setting of hyperparameters is visible in the notebook.
 
 This is a part of a Coursera guided project.
+
+# Results
+
+![results.png](results.png)  
